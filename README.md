@@ -28,7 +28,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/rajkumardusad/onex.git`
+* `git clone https://github.com/Linux-Hack-Tools/Onex.git`
 
 * `chmod +x onex/install`
 
